@@ -6,3 +6,5 @@ To run this code>>
 
 Open CMD 
 Type > php todo.php
+
+Then any time you exit by pressing 4.
